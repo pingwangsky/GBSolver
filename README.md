@@ -2,6 +2,7 @@
 
 
 Introduction
+
 GBSolver is an automatic procedure for generating Gr?bner basis solvers, which could be used even by non-experts to solve technical problems, such as finding the solutions of multivariate polynomials.
 GBSolver provides the possibilities to solve more complicated problems which could not be handled manually or solving existing problems in a better and more efficient way.
 Using GBsolver must be suppored by the Maple.
